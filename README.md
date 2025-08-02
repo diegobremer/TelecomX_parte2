@@ -61,9 +61,11 @@ A figura abaixo mostra, lado a lado, o desempenho dos modelos KNN, Regressão Lo
 1. Clone este repositório:
    ```bash
    git clone https://github.com/diegobremer/TelecomX_parte2.git
-2. Acesse o Google Colab e abra o arquivo TelecomX_BR_parte2.ipynb.
+2. Abra o notebook `TelecomX_BR_parte2.ipynb` no Google Colab (ou em outro ambiente de sua preferência).
 
-3. Execute o notebook para ver o passo a passo da análise.
+3. Execute as células sequencialmente para reproduzir a análise e os resultados.
+
+> O arquivo de dados `dados_tratados.csv` é carregado automaticamente do repositório GitHub dentro do notebook via URL, não havendo necessidade de upload manual ou download extra.
 
 ## 📌 Autor
 
